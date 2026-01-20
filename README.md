@@ -1,25 +1,42 @@
-### Olá! Eu sou o Leanderson Silva!
+👋 Olá, eu sou Leanderson Ferreira
 
+🎓 Formado em Engenharia de Software
+💻 Iniciante em Tecnologia da Informação
+🔧 Foco em Suporte Técnico
+👨‍💻 Back-end em C# (em aprendizado)
 
-<div align="center">
-  <a href="https://github.com/leandersonferreira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandersonferreira&show_icons=false&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandersonferreira&layout=compact&langs_count=7&theme=merko"/>
-</div>
+🚀 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+Sou formado em Engenharia de Software e estou no início da minha trajetória profissional na área de TI, com foco em Suporte Técnico e interesse crescente em desenvolvimento back-end com C#.
 
-##
+Tenho experiência com atendimento ao cliente, rotinas operacionais e uso de sistemas, o que contribuiu para o desenvolvimento de boa comunicação, responsabilidade e facilidade em lidar com usuários. Possuo aprendizagem rápida, organização e facilidade de adaptação a novos processos e tecnologias.
 
-<div>
-  <a href="https://instagram.com/leandersonsilvaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leandersonsilva1210@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leanderson-silva-153987112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/leandersonferreira/leandersonferreira/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+Atualmente, estou consolidando os fundamentos de programação em C#, lógica de programação e boas práticas de desenvolvimento, sempre buscando aplicar o conhecimento em projetos práticos.
+
+🛠️ Tecnologias em aprendizado
+
+C# (.NET)
+
+Lógica de Programação
+
+Programação Orientada a Objetos (POO)
+
+Git e GitHub
+
+Conceitos básicos de suporte técnico e TI
+
+📂 Objetivo deste GitHub
+
+Este repositório reúne projetos de estudo, exercícios práticos e aplicações simples desenvolvidas durante minha evolução na área de TI e programação, com foco em:
+
+Consolidação de fundamentos
+
+Organização de código
+
+Aprendizado contínuo
+
+📌 Em evolução constante
+
+📖 Aprendendo todos os dias
+🔍 Aberto a feedbacks e boas práticas
+🤝 Conecte-se comigo para trocar conhecimento
